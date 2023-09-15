@@ -5,3 +5,10 @@
 Anshujdhakad77/Anshujdhakad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Skills
+ HTML5 CSS3 JavaScript TailwindCSS Bootstrap UI React Redux NodeJS Express Oracle MongoDB MySQL firebase Heroku postman figma git Photoshop Illustrator Premiere Pro MetaMask
+
+Socials
+       
